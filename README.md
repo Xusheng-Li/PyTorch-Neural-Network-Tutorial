@@ -1,2 +1,2 @@
 # PyTorch-Neural-Network-Tutorial
-A hands-on PyTorch tutorial for beginners: Master neural network construction with high-level APIs, including step-by-step PyTorch installation (virtual environment, mirror, CUDA verification), core Tensor operations, Autograd, and end-to-end torch.nn network building.
+A hands-on tutorial for PyTorch beginners to master neural network construction with PyTorch's high-level APIs. This repository includes step-by-step guides for PyTorch installation (virtual environment setup, mirror configuration, CUDA verification), core Tensor operations (indexing, reshaping, concatenation, reduction), automatic differentiation (Autograd), and end-to-end neural network building using torch.nn (definition, compilation, training).
